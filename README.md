@@ -79,13 +79,6 @@ El proyecto sigue los principios de **Clean Architecture** y **MVVM**:
 
 ---
 
-## ⚙️ Configuración de Seguridad (Importante)
-Este proyecto utiliza la API de Gemini. Para proteger las credenciales:
-1.  La API Key se almacena en `local.properties`.
-2.  Se accede mediante `BuildConfig.GEMINI_API_KEY`.
-3.  El archivo `local.properties` está excluido de Git para evitar filtraciones.
-
----
 
 ## 🚀 Instalación
 1. Clona el repo: `git clone https://github.com/SrNiock/AppRumi.git`
