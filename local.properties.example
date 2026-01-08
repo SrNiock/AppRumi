@@ -1,0 +1,3 @@
+# Copia este archivo, cámbiale el nombre a local.properties
+# y pon aquí tu propia API Key de Gemini.
+GEMINI_API_KEY=tu_llave_aqui
